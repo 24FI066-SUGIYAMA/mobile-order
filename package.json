@@ -1,0 +1,10 @@
+{
+  "name": "mobile-order-pixel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pixel-faithful tablet restaurant ordering UI.",
+  "scripts": {
+    "dev": "PORT=5175 node server.js",
+    "start": "node server.js"
+  }
+}
